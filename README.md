@@ -30,3 +30,7 @@ https://habr.com/ru/post/499872/
 https://jenkov.com/tutorials/java/modules.html#multi-java-version-module-jar-files
 
 https://youtu.be/hEnvRXNyDgI
+
+https://www.baeldung.com/java-9-modularity
+
+https://www.baeldung.com/maven-multi-module-project-java-jpms
